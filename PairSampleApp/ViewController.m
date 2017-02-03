@@ -100,6 +100,11 @@ GLfloat gCubeVertexData[216] =
 
 @implementation ViewController
 
+- (void)dealloc
+{
+    [self tearDownGL];
+}
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];

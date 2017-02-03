@@ -1,15 +1,17 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FCA1E2CB3929CC7B8AA544FBF9AF8D5704AD9B7B",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A3BDA44B04D48368FEEB90267D7F477ED29E37CB",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "FCA1E2CB3929CC7B8AA544FBF9AF8D5704AD9B7B" : 9223372036854775807,
+    "A3BDA44B04D48368FEEB90267D7F477ED29E37CB" : 9223372036854775807,
     "6339CA47B1CEBCE12814984C105AF586448DBDA2" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6E54A6C8-5FA5-4E47-8EA8-2ABBA985C214",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "FCA1E2CB3929CC7B8AA544FBF9AF8D5704AD9B7B" : "PairSDKSampleApp\/",
+    "A3BDA44B04D48368FEEB90267D7F477ED29E37CB" : "PairSDKSampleApp-CustomRenderer\/",
     "6339CA47B1CEBCE12814984C105AF586448DBDA2" : "PairSDKSampleApp\/pairsdk\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "PairSampleApp",
@@ -20,6 +22,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/visidraft\/pairsdk.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6339CA47B1CEBCE12814984C105AF586448DBDA2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Pair3D\/PairSDKSampleApp-CustomRenderer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A3BDA44B04D48368FEEB90267D7F477ED29E37CB"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/visidraft\/pairsimpleapp.git",
