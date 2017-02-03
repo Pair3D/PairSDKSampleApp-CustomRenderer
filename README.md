@@ -1,4 +1,4 @@
-# PairSDKSampleApp-CustomeRender
+# PairSDKSampleApp-CustomRender
 
 Note: this app will not run on a simulator.
 
